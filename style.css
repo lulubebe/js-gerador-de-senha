@@ -4,9 +4,9 @@
 :root {
     --branco: white;
     --cor-de-fundo: #00162E;
-    --fundo-senha: #00244D;
-    --fundo-texto: #001E40;
-    --borda: #0075FF;
+    --fundo-senha: #2e0168;
+    --fundo-texto: #30025c;
+    --borda: #a200ff;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
@@ -139,7 +139,7 @@ label {
 .media {
     background-color: #FAF408;
     width: 50%;
-}
+}y
 
 .forte {
     background-color: #00FF85;
